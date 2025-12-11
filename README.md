@@ -1,6 +1,11 @@
 # Byndiesel
 
-<h3 align="center">CPE Student | Technological Institute of the Philippines</h3>
+<h3 align="center">CPE Student | Technological Institute of the Philippines</h3>              <div align="center">
+  <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/T.I.P._Logo.png/1200px-T.I.P._Logo.png"  />
+</div>
+FUTURE ENGINEER!!!
+
+###
 
 ---
 
@@ -8,7 +13,8 @@
 > *"I’m Rubyn Dela Cruz — a passionate CPE student from the Technological Institute of the Philippines, driven by curiosity, creativity, and the constant desire to build something greater than yesterday."*
 
 - 🎓 **BS Computer Engineering (CPE)**  
-- 🏫 **Technological Institute of the Philippines**
+- 🏫 **Technological Institute of the Philippines**                                     
+###
 - 💡 Interested in:  
   - Software Development  
   - Hardware & Embedded Systems  
@@ -73,14 +79,18 @@
 <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
 
- <a href="https://github.com/walidbosso">   
+<a href="https://github.com/walidbosso">   
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
-</a>
+</a> <div align="center">
+  <img height="200" src="https://i.imgur.com/QxOyGtf.gif"  />
+</div>
+
+###
+
 
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/Tj3QPGh6wI8AAAAd/malupeeet-aray-ko.gif"  />
 </div>
-
 ###
 
 
